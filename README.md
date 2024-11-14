@@ -12,20 +12,20 @@ Este proyecto implementa una aplicación web con sistema de autenticación en La
 ## Capturas de Pantalla
 
 ### Página de Inicio de Sesión
-![Login Page](screenshots/login.png)
+![Login Page](public/screenshots/login.png)
 
 ### Página de Registro
-![Register Page](screenshots/register.png)
+![Register Page](public/screenshots/register.png)
 
 ### Vista de Proyectos (Protegida)
-![Projects Page](screenshots/projects.png)
-![Projects Page](screenshots/project_create.png)
-![Projects Page](screenshots/edit_project.png)
-![Projects Page](screenshots/project_detail.png)
-![Projects Page](screenshots/tasks_project.png)
-![Projects Page](screenshots/create_task.png)
-![Projects Page](screenshots/edit_task.png)
-![Projects Page](screenshots/task_detail.png)
+![Projects Page](public/screenshots/projects.png)
+![Projects Page](public/screenshots/project_create.png)
+![Projects Page](public/screenshots/edit_project.png)
+![Projects Page](public/screenshots/project_detail.png)
+![Projects Page](public/screenshots/tasks_project.png)
+![Projects Page](public/screenshots/create_task.png)
+![Projects Page](public/screenshots/edit_task.png)
+![Projects Page](public/screenshots/task_detail.png)
 
 ## Instrucciones de Instalación
 
