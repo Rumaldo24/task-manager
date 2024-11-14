@@ -28,7 +28,7 @@ Este proyecto implementa una aplicación web con sistema de autenticación en La
   ### Vista de Editar Proyecto
 ![Projects Page](public/screenshots/edit_project.png)
 
-  ### Vista de Proyectos
+  ### Vista de un Proyectos Especifico
 ![Projects Page](public/screenshots/project_detail.png)
 
   ### Vista de Tareas de un Proyecto
@@ -50,8 +50,8 @@ Sigue estos pasos para configurar el proyecto en tu entorno local.
 1. **Clonar el repositorio**
 
    ```bash
-   git clone https://github.com/usuario/proyecto-autenticacion-laravel.git
-   cd proyecto-autenticacion-laravel
+   git clone https://github.com/Rumaldo24/task-manager.git
+   cd task-manager
 
 2. **Instalar dependencias de PHP**
 
