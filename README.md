@@ -23,25 +23,25 @@ Este proyecto implementa una aplicación web con sistema de autenticación en La
 ![Projects Page](public/screenshots/projects.png)
 
   * Vista de Crear Proyecto
-    ![Projects Page](public/screenshots/project_create.png)
+![Projects Page](public/screenshots/project_create.png)
 
   * Vista de Editar Proyecto
-    ![Projects Page](public/screenshots/edit_project.png)
+![Projects Page](public/screenshots/edit_project.png)
 
   * Vista de Proyectos
-    ![Projects Page](public/screenshots/project_detail.png)
+![Projects Page](public/screenshots/project_detail.png)
 
   * Vista de Tareas de un Proyecto
-    ![Projects Page](public/screenshots/tasks_project.png)
+![Projects Page](public/screenshots/tasks_project.png)
 
   * Vista de Crear Tarea
-    ![Projects Page](public/screenshots/create_task.png)
+![Projects Page](public/screenshots/create_task.png)
 
   * Vista de Editar Tarea
-    ![Projects Page](public/screenshots/edit_task.png)
+![Projects Page](public/screenshots/edit_task.png)
 
   * Vista de una Tarea especifica
-    ![Projects Page](public/screenshots/task_detail.png)
+![Projects Page](public/screenshots/task_detail.png)
 
 ## Instrucciones de Instalación
 
