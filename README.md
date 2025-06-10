@@ -94,4 +94,20 @@ Sigue estos pasos para configurar el proyecto en tu entorno local.
 
 **Acceso a la Vista de Proyectos**
 
-  - Una vez autenticado, podrás acceder a la vista de proyectos. donde puedes crear, actualizar, eliminar preyectos, asi como agregar, editar, eliminar tareas para cada proyecto.
+  - Una vez autenticado, podrás acceder a la vista de proyectos. donde puedes crear, actualizar, eliminar proyectos, asi como agregar, editar, eliminar tareas para cada proyecto.
+
+## 🛡️ Licencia
+
+Este proyecto fue desarrollado por **Rumaldo V. Riquelme** con fines personales y educativos.
+
+### Permisos:
+✅ Puedes usar el código como referencia para proyectos personales o educativos  
+✅ Puedes modificar y adaptar el código según tus necesidades personales  
+
+### Restricciones:
+❌ No puedes redistribuir el código original o modificado como propio  
+❌ No puedes eliminar esta nota de licencia ni el crédito al autor  
+❌ No puedes usar el código en productos comerciales sin autorización expresa  
+
+Si deseas utilizar este proyecto con otros fines, por favor contáctame:  
+📧 rumaldorv.11@outlook.com 
