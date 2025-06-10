@@ -98,7 +98,7 @@ Sigue estos pasos para configurar el proyecto en tu entorno local.
 
 ## 🛡️ Licencia
 
-Este proyecto fue desarrollado por **Rumaldo V. Riquelme** con fines personales y educativos.
+Este proyecto fue desarrollado por **R. Rumaldo V.** con fines personales y educativos.
 
 ### Permisos:
 ✅ Puedes usar el código como referencia para proyectos personales o educativos  
